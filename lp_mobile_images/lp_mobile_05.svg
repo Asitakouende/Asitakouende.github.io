@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="3900" viewBox="0 0 1080 3900">
+<rect width="100%" height="100%" fill="#f5f9fb"/>
+<rect x="0" y="0" width="1080" height="250" fill="#ffffff"/>
+<text x="70" y="105" font-size="40" font-weight="700" fill="#15345b">一般社団法人</text>
+<text x="70" y="165" font-size="52" font-weight="800" fill="#15345b">日本みらい医療福祉共創協会</text>
+<rect x="760" y="70" width="250" height="90" rx="45" fill="#1ea7a1"/>
+<text x="805" y="127" font-size="34" font-weight="700" fill="white">無料相談はこちら</text>
+<text x="70" y="300" font-size="62" font-weight="800" fill="#15345b">プライバシーポリシー（PRIVACY）</text>
+<rect x="50" y="394" width="980" height="1540" rx="26" fill="#ffffff" stroke="#e6f3f3" stroke-width="3"/>
+<text x="85" y="454" font-size="40" font-weight="800" fill="#1ea7a1">個人情報保護方針</text>
+<text x="85" y="516" font-size="30" font-weight="500" fill="#15345b">1. 取得する個人情報：氏名、メールアドレス、電話番</text>
+<text x="85" y="559" font-size="30" font-weight="500" fill="#15345b">号、所属事業所名、お問い合わせ内容</text>
+<text x="85" y="602" font-size="30" font-weight="500" fill="#15345b">2. 利用目的：返信、サービス案内、講演/研修/イベ</text>
+<text x="85" y="645" font-size="30" font-weight="500" fill="#15345b">ント案内、事業活動連絡</text>
+<text x="85" y="688" font-size="30" font-weight="500" fill="#15345b">3. 第三者提供：同意時、法令に基づく場合、生命財産</text>
+<text x="85" y="731" font-size="30" font-weight="500" fill="#15345b">保護の必要時</text>
+<text x="85" y="774" font-size="30" font-weight="500" fill="#15345b">4. 安全管理：漏洩・滅失・毀損防止措置</text>
+<text x="85" y="817" font-size="30" font-weight="500" fill="#15345b">5. 開示等請求：合理的範囲で速やかに対応</text>
+<text x="85" y="860" font-size="30" font-weight="500" fill="#15345b">6. Cookie：利便性向上目的で使用する場合あり</text>
+<text x="85" y="903" font-size="30" font-weight="500" fill="#15345b">7. お問い合わせ窓口：t.mochida@mira</text>
+<text x="85" y="946" font-size="30" font-weight="500" fill="#15345b">i-welfare.com</text>
+<text x="85" y="989" font-size="30" font-weight="500" fill="#15345b">8. 改定：必要に応じ改定しWebで告知</text>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="3900" viewBox="0 0 1080 3900">
+<rect width="100%" height="100%" fill="#f5f9fb"/>
+<rect x="0" y="0" width="1080" height="250" fill="#ffffff"/>
+<text x="70" y="105" font-size="40" font-weight="700" fill="#15345b">一般社団法人</text>
+<text x="70" y="165" font-size="52" font-weight="800" fill="#15345b">日本みらい医療福祉共創協会</text>
+<rect x="760" y="70" width="250" height="90" rx="45" fill="#1ea7a1"/>
+<text x="805" y="127" font-size="34" font-weight="700" fill="white">無料相談はこちら</text>
+<text x="70" y="300" font-size="62" font-weight="800" fill="#15345b">お問い合わせ（CONTACT）</text>
+<rect x="50" y="394" width="980" height="620" rx="26" fill="#ffffff" stroke="#e6f3f3" stroke-width="3"/>
+<text x="85" y="454" font-size="40" font-weight="800" fill="#1ea7a1">お問い合わせ案内</text>
+<text x="85" y="516" font-size="30" font-weight="500" fill="#15345b">まず、話しましょう。</text>
+<text x="85" y="559" font-size="30" font-weight="500" fill="#15345b">下記フォームよりお気軽にお問い合わせください。</text>
+<text x="85" y="602" font-size="30" font-weight="500" fill="#15345b">初回相談は無料、返信は3営業日以内を目安にご連絡しま</text>
+<text x="85" y="645" font-size="30" font-weight="500" fill="#15345b">す。</text>
+<text x="85" y="688" font-size="30" font-weight="500" fill="#15345b"></text>
+<text x="85" y="731" font-size="30" font-weight="500" fill="#15345b">【Googleフォーム埋め込みエリア（HTML実装想</text>
+<text x="85" y="774" font-size="30" font-weight="500" fill="#15345b">定）】</text>
+<rect x="50" y="1058" width="980" height="980" rx="26" fill="#ffffff" stroke="#e6f3f3" stroke-width="3"/>
+<text x="85" y="1118" font-size="40" font-weight="800" fill="#1ea7a1">FAQ</text>
+<text x="85" y="1180" font-size="30" font-weight="500" fill="#15345b">Q1 初回相談は無料ですか？</text>
+<text x="85" y="1223" font-size="30" font-weight="500" fill="#15345b">A はい、無料です。</text>
+<text x="85" y="1266" font-size="30" font-weight="500" fill="#15345b">Q2 課題未整理でも相談できますか？</text>
+<text x="85" y="1309" font-size="30" font-weight="500" fill="#15345b">A はい、可能です。</text>
+<text x="85" y="1352" font-size="30" font-weight="500" fill="#15345b">Q3 全国対応できますか？</text>
+<text x="85" y="1395" font-size="30" font-weight="500" fill="#15345b">A オンラインで全国対応可能です。</text>
+<text x="85" y="1438" font-size="30" font-weight="500" fill="#15345b">Q4 相談後に必ず有償支援が必要ですか？</text>
+<text x="85" y="1481" font-size="30" font-weight="500" fill="#15345b">A いいえ、任意です。</text>
+<text x="85" y="1524" font-size="30" font-weight="500" fill="#15345b">Q5 連携専門家として関われますか？</text>
+<text x="85" y="1567" font-size="30" font-weight="500" fill="#15345b">A はい、個別にご相談ください。</text>
+<rect x="50" y="2082" width="980" height="420" rx="26" fill="#ffffff" stroke="#e6f3f3" stroke-width="3"/>
+<text x="85" y="2142" font-size="40" font-weight="800" fill="#1ea7a1">個人情報の取扱い</text>
+<text x="85" y="2204" font-size="30" font-weight="500" fill="#15345b">入力いただく個人情報は、返信および当協会サービス案内</text>
+<text x="85" y="2247" font-size="30" font-weight="500" fill="#15345b">のみに使用します。</text>
+<text x="85" y="2290" font-size="30" font-weight="500" fill="#15345b">詳細はプライバシーポリシーをご確認ください。</text>
+<rect x="85" y="2397" width="560" height="72" rx="36" fill="#1ea7a1"/>
+<text x="130" y="2444" font-size="34" font-weight="700" fill="white">無料相談はこちら →</text>
+</svg>
