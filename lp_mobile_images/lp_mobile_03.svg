@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="3900" viewBox="0 0 1080 3900">
+<rect width="100%" height="100%" fill="#f5f9fb"/>
+<rect x="0" y="0" width="1080" height="250" fill="#ffffff"/>
+<text x="70" y="105" font-size="40" font-weight="700" fill="#15345b">一般社団法人</text>
+<text x="70" y="165" font-size="52" font-weight="800" fill="#15345b">日本みらい医療福祉共創協会</text>
+<rect x="760" y="70" width="250" height="90" rx="45" fill="#1ea7a1"/>
+<text x="805" y="127" font-size="34" font-weight="700" fill="white">無料相談はこちら</text>
+<text x="70" y="300" font-size="62" font-weight="800" fill="#15345b">事業内容・サービス（SERVICE）</text>
+<rect x="50" y="394" width="980" height="980" rx="26" fill="#ffffff" stroke="#e6f3f3" stroke-width="3"/>
+<text x="85" y="454" font-size="40" font-weight="800" fill="#1ea7a1">3軸支援メニュー</text>
+<text x="85" y="516" font-size="30" font-weight="500" fill="#15345b">経営軸：経営計画、補助金、収益モデル再構築、M&A・</text>
+<text x="85" y="559" font-size="30" font-weight="500" fill="#15345b">承継</text>
+<text x="85" y="602" font-size="30" font-weight="500" fill="#15345b">人材軸：採用戦略、定着支援、管理職育成、外国人材受入</text>
+<text x="85" y="645" font-size="30" font-weight="500" fill="#15345b">運営軸：業務標準化、ICT・DX化、ケア品質向上、法</text>
+<text x="85" y="688" font-size="30" font-weight="500" fill="#15345b">令整備</text>
+<text x="85" y="731" font-size="30" font-weight="500" fill="#15345b"></text>
+<text x="85" y="774" font-size="30" font-weight="500" fill="#15345b">3つの軸を一体で設計し、現場で実行可能な改善へ。</text>
+<rect x="50" y="1418" width="980" height="760" rx="26" fill="#ffffff" stroke="#e6f3f3" stroke-width="3"/>
+<text x="85" y="1478" font-size="40" font-weight="800" fill="#1ea7a1">支援対象・料金目安</text>
+<text x="85" y="1540" font-size="30" font-weight="500" fill="#15345b">介護サービス／障がい福祉／医療・在宅医療</text>
+<text x="85" y="1583" font-size="30" font-weight="500" fill="#15345b">保育・児童福祉／新規参入・承継検討法人</text>
+<text x="85" y="1626" font-size="30" font-weight="500" fill="#15345b">行政・商工団体・金融機関・士業など</text>
+<text x="85" y="1669" font-size="30" font-weight="500" fill="#15345b"></text>
+<text x="85" y="1712" font-size="30" font-weight="500" fill="#15345b">初回相談（現状診断・課題整理）：無料</text>
+<text x="85" y="1755" font-size="30" font-weight="500" fill="#15345b">診断レポート：50,000円（税別）〜</text>
+<rect x="50" y="2222" width="980" height="640" rx="26" fill="#ffffff" stroke="#e6f3f3" stroke-width="3"/>
+<text x="85" y="2282" font-size="40" font-weight="800" fill="#1ea7a1">ご相談の流れ</text>
+<text x="85" y="2344" font-size="30" font-weight="500" fill="#15345b">STEP1 事前アンケート</text>
+<text x="85" y="2387" font-size="30" font-weight="500" fill="#15345b">STEP2 初回面談（無料）</text>
+<text x="85" y="2430" font-size="30" font-weight="500" fill="#15345b">STEP3 診断レポート提出（有償）</text>
+<text x="85" y="2473" font-size="30" font-weight="500" fill="#15345b">STEP4 継続支援（任意）</text>
+<text x="85" y="2516" font-size="30" font-weight="500" fill="#15345b"></text>
+<text x="85" y="2559" font-size="30" font-weight="500" fill="#15345b">押しつけは一切しません。</text>
+<rect x="85" y="2757" width="560" height="72" rx="36" fill="#1ea7a1"/>
+<text x="130" y="2804" font-size="34" font-weight="700" fill="white">無料相談はこちら →</text>
+</svg>
